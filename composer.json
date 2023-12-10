@@ -1,6 +1,11 @@
 {
     "name": "jozefgrencik/slovak-name-days",
     "description": "Slovenské meniny / Slovak name days",
+    "keywords": [
+        "Slovak name days",
+        "Slovak calendar",
+        "Official name days"
+    ],
     "homepage": "https://github.com/jozefgrencik/slovak-name-days",
     "type": "library",
     "license": "MIT",
