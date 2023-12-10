@@ -2,7 +2,7 @@
     "name": "jozefgrencik/slovak-name-days",
     "description": "Slovenské meniny / Slovak name days",
     "homepage": "https://github.com/jozefgrencik/slovak-name-days",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "require": {
     },
