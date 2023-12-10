@@ -21,6 +21,12 @@ The Official Calendar was approved upon the proposal of the Calendar Commission 
 git clone https://github.com/jozefgrencik/slovak-name-days.git
 ```
 
+or via Composer:
+```shell
+composer require jozefgrencik/slovak-name-days
+```
+
+
 ## Each file
  - Contains all calendar days
  - 366 rows/items
