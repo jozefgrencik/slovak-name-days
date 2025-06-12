@@ -405,7 +405,9 @@
         "month": 2,
         "day": 24,
         "names": [
-            "Matej"
+            "Matej",
+            "Mati\u00e1\u0161",
+            "Matias"
         ]
     },
     {
@@ -538,7 +540,8 @@
         "month": 3,
         "day": 13,
         "names": [
-            "Vlastimil"
+            "Vlastimil",
+            "Let\u00edcia"
         ]
     },
     {
@@ -1692,7 +1695,8 @@
         "month": 8,
         "day": 20,
         "names": [
-            "Anabela"
+            "Anabela",
+            "Bela"
         ]
     },
     {

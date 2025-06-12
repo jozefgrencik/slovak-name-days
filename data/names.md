@@ -1,5 +1,5 @@
 
-## SLOVAK OFFICIAL CALENDAR (revision 2023/06)
+## SLOVAK OFFICIAL CALENDAR (revision 2024/06)
 
 ### January
 
@@ -64,7 +64,7 @@
 | 21st | Eleonóra                    |
 | 22nd | Etela                       |
 | 23rd | Roman, Romana               |
-| 24th | Matej                       |
+| 24th | Matej, Matiáš, Matias       |
 | 25th | Frederik, Frederika         |
 | 26th | Viktor                      |
 | 27th | Alexander                   |
@@ -87,7 +87,7 @@
 | 10th | Branislav, Bronislav, Bruno |
 | 11th | Angela, Angelika            |
 | 12th | Gregor                      |
-| 13th | Vlastimil                   |
+| 13th | Vlastimil, Letícia          |
 | 14th | Matilda                     |
 | 15th | Svetlana                    |
 | 16th | Boleslav                    |
@@ -272,7 +272,7 @@
 | 17th | Milica                      |
 | 18th | Elena, Helena               |
 | 19th | Lýdia                       |
-| 20th | Anabela                     |
+| 20th | Anabela, Bela               |
 | 21st | Jana, Johana, Noema         |
 | 22nd | Tichomír                    |
 | 23rd | Filip                       |

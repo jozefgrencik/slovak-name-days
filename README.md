@@ -42,7 +42,7 @@ composer require jozefgrencik/slovak-name-days
 
 **Q: How often do you revise this repository?**
 
-**A:** We expect that the next meeting of the Calendar Commission, where the calendar will be reconsidered, will take place in June 2024.
+**A:** We expect that the next meeting of the Calendar Commission, where the calendar will be reconsidered, will take place in June 2025.
 
 ## Sources
 [culture.gov.sk](https://www.culture.gov.sk/posobnost-ministerstva/statny-jazyk-narodnostne-mensiny-a-zahranicni-slovaci/statny-jazyk/kalendarova-komisia/oficialne-kalendarium/)
